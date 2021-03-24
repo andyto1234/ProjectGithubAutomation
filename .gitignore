@@ -1,4 +1,4 @@
 # ignore all passwords and tokens
-*.env
+.env
 
 
