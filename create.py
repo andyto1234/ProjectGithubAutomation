@@ -27,7 +27,7 @@ def create():
         'cp /Users/ato/scripts/website_code/andyto.uk/push .']
     for c in commands:
         os.system(c)
-    print("Succesfully pushed {} to GitHub".format(folderName))
+    print(f"Succesfully pushed {folderName} to GitHub")
 
 if __name__ == "__main__":
     create()
