@@ -19,6 +19,3 @@ USERNAME="Username123"
 PASSWORD="Password123"
 FILEPATH="/path/to/your/project/"
 ```
-# TrialAgain
-# ProjectGithubAutomation
-# ProjectGithubAutomation
