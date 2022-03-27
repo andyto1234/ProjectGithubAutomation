@@ -1,7 +1,7 @@
 ### Install: 
 ```bash
-git clone "https://github.com/KalleHallden/ProjectInitializationAutomation.git"
-cd ProjectInitializationAutomation
+git clone "https://github.com/andyto1234/ProjectGithubAutomation.git"
+cd ProjectGithubAutomation
 pip install -r requirements.txt
 touch .env
 Then open the .env file and store your username, password, and desired file destination. Use the provided format at the bottom of this README.
@@ -19,6 +19,3 @@ USERNAME="Username123"
 PASSWORD="Password123"
 FILEPATH="/path/to/your/project/"
 ```
-# TrialAgain
-# ProjectGithubAutomation
-# ProjectGithubAutomation
